@@ -12,3 +12,4 @@
  
  ![](https://visitor-badge.laobi.icu/badge?page_id=SeanKimbrough23.SeanKimbrough23)
  [![Github](https://img.shields.io/github/followers/SeanKimbrough23?label=Follow&style=social)](https://github.com/SeanKimbrough23)
+ [GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanKimbrough23&show_icons=true&theme=tokyonight)
