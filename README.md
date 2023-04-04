@@ -7,3 +7,8 @@
 
  🧰 Languages and Tools:
  express  html5  javascript  nodejs  postgresql  postman  react postico 
+ 
+ 
+ 
+ ![](https://visitor-badge.laobi.icu/badge?page_id=SeanKimbrough23.SeanKimbrough23)
+ [![Github](https://img.shields.io/github/followers/SeanKimbrough23?label=Follow&style=social)](https://github.com/SeanKimbrough23)
